@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Aggrawal</h1>
-<h3 align="center">I am a Competitive Programmer pursuing Computer Science Engineering at the Institute of Engineering and Technology(IET), Lucknow (2019 - 2023). I have worked on Data Structures and Algorithms (C++), and Full Stack Web Development.</h3>
+<h3 align="center">I am a Competitive Programmer who did Computer Science Engineering at the Institute of Engineering and Technology(IET), Lucknow (2019 - 2023). I have worked on Data Structures and Algorithms (C++), and Full Stack Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-19&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-19" /> </p>
 
